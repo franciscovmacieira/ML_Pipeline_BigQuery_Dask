@@ -1,5 +1,0 @@
-- This zip file contains two notebooks containing the ML Pipeline regarding the CDLE project performed by Francisco Macieira, Manuel Silva and Nuno Gomes (up202207166, up202108874 and up202206195).
-
-- We deliver two notebooks instead of one because of the limitation of GCP credits of the members of the group. One member used his credits to run the pipeline using BigQuery and the other one to run the pipeline using Dask.
-
-- Both notebooks have almost the same analysis (the BigQuery one a more complete analysis in some parts) and the same prediction model, but performed by two diferente tools as mentioned, BigQuery and Dask. In both the notebooks the steps taken and conclusions drawn are reported and, in the end, there is a section of final conclusions, about the analysis, the prediction model and each tool that was used.
